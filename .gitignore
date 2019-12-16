@@ -1,7 +1,10 @@
 # Para no subir los dataset
 
 *.csv
+!crime-data_crime-data_crimestat.csv
+!pop-by-zip-code.csv
 *.json
+*.pkl
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
