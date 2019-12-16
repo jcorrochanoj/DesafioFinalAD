@@ -1,3 +1,6 @@
+# HASTA CONSOLIDACIÓN FINAL, TODOS LOS FICHEROS SE ENCUENTRAN EN LA RAMA LLAMADA "Davier".
+
+
 # DesafioFinalAD
 Practica final de la asignatura de Análisis de Datos. (La del conjunto de datos enorme)
 
