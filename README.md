@@ -32,7 +32,9 @@ Hemos estructurado todos los ficheros de la siguiente forma:
 - Dataset: Carpeta en la que se deben localizar los ficheros de datos necesarios para la ejecución del trabajo realizado.
 
 - Imagen: Carpeta que contiene imagenes necesarias para la ejecución. En este caso, las imágenes máscara para hacer wordcloud.
-    
+
+- Presentación final Desafío Final.pptx: Presentación del trabajo.
+
 **IMPORTANTE**: Dentro de la carpeta de Analisis existe un fichero oculto llamado .mapbox_token, este contiene el token necesario para que los mapas sean generados.
     
 ### Data sets necesarios
